@@ -4,7 +4,7 @@
 
 :rocket: Atualmente sou desenvolvedor FrontEnd pela [**AutoSeg**](https://github.com/autoseg)
 
-**Linguagens (de programação e de marcação :smirk:):**
+**Linguagens (de programação, de marcação e de estilização :smirk:):**
 
 <img src="https://img.shields.io/badge/-HTML-CC6699?logo=HTML5&logoColor=white&labelColor=CC6699" alt="HTML" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white&labelColor=1572B6" alt="CSS3" /> 
 
